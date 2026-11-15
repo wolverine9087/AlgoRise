@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 import authRoutes from "./routes/auth.routes.js";
 import questionRoutes from "./routes/question.routes.js";
-import progressRoutes from "./routes/progress.routes.js";
+import progressRoutes from "./routes/progess.routes.js";
 
 dotenv.config();
 
